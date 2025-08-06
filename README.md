@@ -30,5 +30,5 @@
 ## 📫 Contact Me
 - 📧 Email: **meshicohen14@gmail.com**  
 - 💼 LinkedIn: https://www.linkedin.com/in/meshi-cohen-3521b1289/
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg" alt="Israel Flag" width="20"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg" alt="Israel Flag" width="20"/>
 
